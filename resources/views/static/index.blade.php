@@ -1,5 +1,5 @@
 @extends('template.masterTemplate')
-@section('content1')
+@section('content')
     <main class="nxl-container">
         <div class="nxl-content">
             <!-- [ page-header ] start -->
